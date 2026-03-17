@@ -20,7 +20,7 @@ The Local Service Finder System is a web-based application developed using **Spr
 ### User Panel
 - 🔍 Search for local services by category or location  
 - 📄 View service provider details and contact information  
-- 📝 Request services (if implemented)  
+- 📝 Request services 
 
 ### Service Provider Panel
 - 🏷️ Register as a service provider  
@@ -30,7 +30,7 @@ The Local Service Finder System is a web-based application developed using **Spr
 ### Admin Panel
 - 👤 Manage users and service providers  
 - ✅ Approve or reject service listings  
-- 📊 Generate reports or analytics (if implemented)  
+- 📊 Generate reports or analytics 
 
 ---
 
@@ -41,7 +41,7 @@ The Local Service Finder System is a web-based application developed using **Spr
 - Users  
 - ServiceProviders  
 - Services  
-- Requests (if implemented)  
+- Requests 
 
 ---
 
@@ -69,7 +69,7 @@ Open in Browser
 http://localhost:8080/LocalServiceFinderSystem
 📸 Screenshots
 
-(Add screenshots here, e.g., ![](screenshots/home.png))
+
 
 👩‍💻 Author
 
